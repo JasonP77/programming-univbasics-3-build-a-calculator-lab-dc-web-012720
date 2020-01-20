@@ -14,7 +14,7 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  multi = num2*num1
+  multi = num1*num2
   return multi
 end
 
