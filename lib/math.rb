@@ -4,22 +4,22 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  sub = num2 - num1
+  sub = num1 - num2
   return sub
 end
 
 def division(num1, num2)
-  div = num2/num1
+  div = num1/num2
   return div
 end
 
 def multiplication(num1, num2)
-  multi = num1*num2
+  multi = num2*num1
   return multi
 end
 
 def modulo(num1, num2)
-  mod = num2%num1
+  mod = num1%num2
   return mod
 end
 
